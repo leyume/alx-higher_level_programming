@@ -12,6 +12,4 @@ elif last_num > 5:
 else:
     state = "and is less than 6 and not 0"
 
-
-
 print("Last digit of", number, "is", last_num, state)
